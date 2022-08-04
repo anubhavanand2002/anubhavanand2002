@@ -37,4 +37,4 @@
       
 - ## My Resume
 
-     [Visit my resume](https://drive.google.com/file/d/1v5vyz_aRulWliNZ-O9WiQ3quMAcy_jjs/view?usp=sharing)
+     [Visit my resume](https://drive.google.com/file/d/1NuXS3xvT-_6nlcwHTUz26mWWIVIWyyRc/view?usp=sharing)
