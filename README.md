@@ -25,7 +25,7 @@
     
     Leetcoder (350+ questions) [visit my site](https://leetcode.com/anubhav_anandbgu/)
     
-    Codecheffer [visit my site](https://www.codechef.com/users/anubhavanand12)
+    Codecheffer [visit my site](https://www.codechef.com/users/anubhav_0316)
     
 - ## Projects
 
