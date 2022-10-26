@@ -37,6 +37,7 @@
      
      [REACT-BASED EXPENSE-TRACKER](https://anubhavanand2002.github.io/new-expense-tracker/)
       
+     [REACT-BASED SIMPLE TO-DO LIST](https://anubhavanand2002.github.io/my-revised-todo/)
 - ## My Resume
 
      [Visit my resume](https://drive.google.com/file/d/1NuXS3xvT-_6nlcwHTUz26mWWIVIWyyRc/view?usp=sharing)
