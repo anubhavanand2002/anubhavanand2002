@@ -29,15 +29,15 @@
     
 - ## Projects
 
-     [Machine Learning and Data Science related Project(Published in Springer)](https://link.springer.com/chapter/10.1007/978-981-19-3089-8_34)
+     -->[Machine Learning and Data Science related Project(Published in Springer)](https://link.springer.com/chapter/10.1007/978-981-19-3089-8_34)
       
-     [HTML related small project](https://anubhavanand2002.github.io/html-related-project/)
+     -->[HTML related small project](https://anubhavanand2002.github.io/html-related-project/)
       
-     [HTML CSS JAVA-SCRIPT related small project](https://anubhavanand2002.github.io/small-project-realted-to-html-css-javascript/)
+     -->[HTML CSS JAVA-SCRIPT related small project](https://anubhavanand2002.github.io/small-project-realted-to-html-css-javascript/)
      
-     [REACT-BASED EXPENSE-TRACKER](https://anubhavanand2002.github.io/new-expense-tracker/)
+     -->[REACT-BASED EXPENSE-TRACKER](https://anubhavanand2002.github.io/new-expense-tracker/)
       
-     [REACT-BASED SIMPLE TO-DO LIST](https://anubhavanand2002.github.io/my-revised-todo/)
+     -->[REACT-BASED SIMPLE TO-DO LIST](https://anubhavanand2002.github.io/my-revised-todo/)
 - ## My Resume
 
      [Visit my resume](https://drive.google.com/file/d/1NuXS3xvT-_6nlcwHTUz26mWWIVIWyyRc/view?usp=sharing)
