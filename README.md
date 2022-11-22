@@ -46,4 +46,4 @@
      -->[VALID INVALID CHECK-UP USING REACT](https://anubhavanand2002.github.io/valid-invalid-checkup/)
 - ## My Resume
 
-     [Visit my resume](https://drive.google.com/file/d/1NuXS3xvT-_6nlcwHTUz26mWWIVIWyyRc/view?usp=sharing)
+     [Visit my resume](https://drive.google.com/file/d/1L9bHy6y3cr4Oe9i0AbU3vgLIwS11AcEW/view?usp=share_link)
