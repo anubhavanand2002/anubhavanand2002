@@ -46,6 +46,8 @@
      -->[VALID INVALID CHECK-UP USING REACT](https://anubhavanand2002.github.io/valid-invalid-checkup/)
      
      -->[WEATHER APP](https://anubhavanand2002.github.io/Weather-App/)
+     
+     -->[Tic-Tae-Toe Game](https://anubhavanand2002.github.io/Tic-Tae-Toe-Game/)
 - ## My Resume
 
      [Visit my resume](https://drive.google.com/file/d/1L9bHy6y3cr4Oe9i0AbU3vgLIwS11AcEW/view?usp=share_link)
