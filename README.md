@@ -28,9 +28,11 @@
     Codecheffer [visit my site](https://www.codechef.com/users/anubhav_0316)
     
 - ## Projects
-
+     
      -->[Machine Learning and Data Science related Project(Published in Springer)](https://link.springer.com/chapter/10.1007/978-981-19-3089-8_34)
-      
+     
+     -->[Type-Racer-Game(created using HTML,CSS,JS)](https://anubhavanand2002.github.io/TypeRacer-Game/)
+     
      -->[HTML related small project](https://anubhavanand2002.github.io/html-related-project/)
       
      -->[HTML CSS JAVA-SCRIPT related small project](https://anubhavanand2002.github.io/small-project-realted-to-html-css-javascript/)
@@ -52,6 +54,7 @@
      -->[Tic-Tae-Toe(Using HTML,CSS,JavaScript)](https://anubhavanand2002.github.io/Tic-Tae-Toe-Using-HTML-CSS-JS-/)
      
      -->[Ping-Pong-Game(Using HTML,CSS,JavaScript)](https://anubhavanand2002.github.io/Ping-Pong-Game-Using-HTML-CSS-JS-/)
+
 - ## My Resume
 
      [Visit my resume](https://drive.google.com/file/d/1L9bHy6y3cr4Oe9i0AbU3vgLIwS11AcEW/view?usp=share_link)
