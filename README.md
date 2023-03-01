@@ -56,7 +56,3 @@
      -->[Tic-Tae-Toe(Using HTML,CSS,JavaScript)](https://anubhavanand2002.github.io/Tic-Tae-Toe-Using-HTML-CSS-JS-/)
      
      -->[Ping-Pong-Game(Using HTML,CSS,JavaScript)](https://anubhavanand2002.github.io/Ping-Pong-Game-Using-HTML-CSS-JS-/)
-
-- ## My Resume
-
-     [Visit my resume](https://drive.google.com/file/d/1L9bHy6y3cr4Oe9i0AbU3vgLIwS11AcEW/view?usp=share_link)
