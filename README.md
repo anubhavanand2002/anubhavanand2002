@@ -31,28 +31,16 @@
      
      -->[Machine Learning and Data Science related Project(Published in Springer)](https://link.springer.com/chapter/10.1007/978-981-19-3089-8_34)
      
-     -->[Movie-Website(IMDB-CLONE)](https://anubhavanand2002.github.io/IMDB-Clone/)
+   
      
-     -->[Type-Racer-Game(created using HTML,CSS,JS)](https://anubhavanand2002.github.io/TypeRacer-Game/)
+   
      
-     -->[HTML related small project](https://anubhavanand2002.github.io/html-related-project/)
-      
-     -->[HTML CSS JAVA-SCRIPT related small project](https://anubhavanand2002.github.io/small-project-realted-to-html-css-javascript/)
      
-     -->[REACT-BASED EXPENSE-TRACKER](https://anubhavanand2002.github.io/new-expense-tracker/)
-      
-     -->[REACT-BASED SIMPLE TO-DO LIST](https://anubhavanand2002.github.io/my-revised-todo/)
      
-     -->[REACT-BASED SIMPLE MY_UTILS](https://anubhavanand2002.github.io/my_Utils/)
      
-     -->[My RESTAURANT SITE USING REACT](https://anubhavanand2002.github.io/my-restaurant/)
      
-     -->[VALID INVALID CHECK-UP USING REACT](https://anubhavanand2002.github.io/valid-invalid-checkup/)
+    
      
-     -->[WEATHER APP](https://anubhavanand2002.github.io/Weather-App/)
+    
      
-     -->[Tic-Tae-Toe Game](https://anubhavanand2002.github.io/Tic-Tae-Toe-Game/)
-     
-     -->[Tic-Tae-Toe(Using HTML,CSS,JavaScript)](https://anubhavanand2002.github.io/Tic-Tae-Toe-Using-HTML-CSS-JS-/)
-     
-     -->[Ping-Pong-Game(Using HTML,CSS,JavaScript)](https://anubhavanand2002.github.io/Ping-Pong-Game-Using-HTML-CSS-JS-/)
+    
