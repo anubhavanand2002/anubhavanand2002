@@ -13,9 +13,17 @@
     
     DSA
     
-    Machine Learning
+   React
+
+   Express Js
+
+   Mongo DB
+
+   Node JS
+
+   MYSQL
     
-    Object Oriented Programming
+   Object Oriented Programming
     
     HTML
     
@@ -23,14 +31,16 @@
     
     JavaScript
     
-    Leetcoder (350+ questions) [visit my site](https://leetcode.com/anubhav_anandbgu/)
-    
-    Codecheffer [visit my site](https://www.codechef.com/users/anubhav_0316)
+    Leetcoder (850+ questions) [visit my site](https://leetcode.com/anubhav_anandbgu/)
+
     
 - ## Projects
      
      -->[Machine Learning and Data Science related Project(Published in Springer)](https://link.springer.com/chapter/10.1007/978-981-19-3089-8_34)
-     
+
+     -->[Hotel Booking Website Made Using Complete MERN STACK](https://stayeasy.vercel.app/)
+
+     --->[Doctor Appointment Website Made using Complete MERN Stack](https://doctor-client-app.vercel.app/login)
    
      
    
